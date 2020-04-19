@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TS-appweb2"
+    }
+  },
+  "defaultProject": "TS-appweb2",
+  "cli": {
+    "analytics": false
+  }
 }
